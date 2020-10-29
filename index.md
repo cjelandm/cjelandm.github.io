@@ -1,9 +1,13 @@
 # CJEMetcalf
 
-Contains working documents and presentations
+[Google scholar page](https://scholar.google.com/citations?user=tt1oyyEAAAAJ&hl=en&oi=ao)
+[Twitter](https://twitter.com/cjemetcalf?lang=en)
+[Website](https://metcalflab.princeton.edu/)
 
-Links: 
-[google scholar](https://scholar.google.com/citations?user=tt1oyyEAAAAJ&hl=en&oi=ao)
-[twitter](https://twitter.com/cjemetcalf?lang=en)
-[website](https://metcalflab.princeton.edu/)
+## Teaching GHP351
 
+### Syllabus 
+
+### Audio 
+
+### Video 
