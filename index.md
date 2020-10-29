@@ -6,7 +6,7 @@
 
 ## Teaching GHP351
 
-### Syllabus 
+[Syllabus](http://cjelandm.github.io/GHP351-Syllabus.pdf)
 
 ### Audio 
 
