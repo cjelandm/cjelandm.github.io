@@ -1,8 +1,8 @@
 # CJEMetcalf
 
-[Google scholar page](https://scholar.google.com/citations?user=tt1oyyEAAAAJ&hl=en&oi=ao)
-[Twitter](https://twitter.com/cjemetcalf?lang=en)
-[Website](https://metcalflab.princeton.edu/)
+*[Google scholar page](https://scholar.google.com/citations?user=tt1oyyEAAAAJ&hl=en&oi=ao)
+*[Twitter](https://twitter.com/cjemetcalf?lang=en)
+*[Website](https://metcalflab.princeton.edu/)
 
 ## Teaching GHP351
 
