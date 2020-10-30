@@ -1,8 +1,4 @@
-# CJEMetcalf
 
-[Google scholar page](https://scholar.google.com/citations?user=tt1oyyEAAAAJ&hl=en&oi=ao)\\
-[Twitter handle](https://twitter.com/cjemetcalf?lang=en)\\
-[Website](https://metcalflab.princeton.edu/)
 
 ## Teaching GHP351
 
@@ -14,6 +10,7 @@
 
 ## Teaching Evolution
 
+[Life history evolution]()
 
 ## Talks
 
@@ -31,5 +28,8 @@
 
 [Princeton Forward Fest](https://forwardthinking.princeton.edu/festival)
 
-
+### Links
+[Google scholar page](https://scholar.google.com/citations?user=tt1oyyEAAAAJ&hl=en&oi=ao)\\
+[Twitter](https://twitter.com/cjemetcalf?lang=en)\\
+[Website](https://metcalflab.princeton.edu/)
 
