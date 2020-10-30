@@ -21,9 +21,9 @@
 
 [Sex differences in immune function: probing ultimate drivers and exploring consequences. June 2020. EcoEvoSeminars](https://youtu.be/ShpRKiaF-hc)
 
-[Griswold Center for Economic Policy Studies; Pandemic Discussion; hosted by Senator Frist; April 2020 ](https://www.youtube.com/watch?v=wHz6KS-IT3c)
+[Griswold Center for Economic Policy Studies; COVID-19 Webinar Series; hosted by Senator Frist; April 2020 ](https://www.youtube.com/watch?v=wHz6KS-IT3c)
 
-[Griswold Center for Economic Policy Studies; Pandemic Discussion; hosted by Senator Frist; Sept 2020](https://gceps.princeton.edu/covid2/)
+[Griswold Center for Economic Policy Studies; COVID-19 Webinar Series; hosted by Senator Frist; Sept 2020](https://gceps.princeton.edu/covid2/)
 
 [SARS-CoV-2; April 2020; European Central Bank](https://www.youtube.com/watch?v=681eOXI-UgY)
 
