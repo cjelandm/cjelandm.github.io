@@ -35,4 +35,4 @@
 
 
 
-[!trail](/assets/images/IMG_1335)
+[!trail](/assets/images/IMG_1335.jpeg)
