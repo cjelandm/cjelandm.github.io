@@ -35,4 +35,4 @@
 
 
 
-[!trail](/assets/images/electrocat.png)
+[!trail](/assets/images/IMG_1335)
