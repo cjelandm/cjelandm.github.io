@@ -33,3 +33,6 @@
 [Twitter](https://twitter.com/cjemetcalf?lang=en)\\
 [Website](https://metcalflab.princeton.edu/)
 
+
+
+[!trail](/assets/images/electrocat.png)
